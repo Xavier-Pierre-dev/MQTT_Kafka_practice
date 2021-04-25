@@ -27,5 +27,3 @@ I learn a little about psutil and i notice that my computer are not compatible w
 ## Some reflexion about this project 
 With some research i find that's possible to use Kafka with Flask then create an interface for visualise data on a webpage so i guess it's also possible with django. That's something i can maybe try for display a chart using chart.js displaying ram usage data in percentage inside the brother when this data are coming from a kafka bridge.
 
-
-# MQTT_Kafka_practice
