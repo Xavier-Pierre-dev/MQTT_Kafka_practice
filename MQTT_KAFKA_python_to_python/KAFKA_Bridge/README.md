@@ -44,7 +44,7 @@ kafka-server-start.bat ../../config/server.properties
 ___
 ___
 ___
-## Kafka MQTT parallel implementation Quick-start
+## Kafka MQTT Bridge implementation Quick-start
 ### Kafka run :
 1. open a cmd and run zookeeper first so do the following shell command inside your kafka directory > bin > windows : (for me : `C:\kafka_2.13-2.8.0\bin\windows`)
 ```shell
