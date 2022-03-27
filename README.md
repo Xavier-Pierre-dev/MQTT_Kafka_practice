@@ -1,5 +1,11 @@
 # 🚀 MQTT & KAFKA : practice implementation 🚀
 
+<div align="center">
+
+![image](iot.png)
+
+</div>
+
 ## stack :
 * MQTT (paho-mqtt) => subscriver / publisher
 * Kafka (pyKafka) => consumer / producer
